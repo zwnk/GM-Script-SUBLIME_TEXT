@@ -9,4 +9,8 @@ or create a new Syntax definition and copy the code.
 
 more info: [found here](http://blog.yeinlookatdatunicorn.net/blog/20150715_1_GM_SUblime)
 
+
+more info about the scripting language ca be found [Blue Marble Knowledge Base](https://www.bluemarblegeo.com/knowledgebase/global-mapper/index.htm)
+
+
 Hfgl
