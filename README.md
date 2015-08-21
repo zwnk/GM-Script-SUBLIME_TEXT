@@ -12,5 +12,9 @@ more info: [found here](http://blog.yeinlookatdatunicorn.net/blog/20150715_1_GM_
 
 more info about the scripting language ca be found [Blue Marble Knowledge Base](https://www.bluemarblegeo.com/knowledgebase/global-mapper/index.htm)
 
+-->[Sublime Text 3](http://www.sublimetext.com/3)<--
+
+
 
 Hfgl
+zwnk
