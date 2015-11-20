@@ -10,7 +10,8 @@ or create a new Syntax definition and copy the code.
 more info: [found here](http://yeinlookatdatunicorn.net/blog/20150715_1_GM_SUblime)
 
 
-more info about the scripting language ca be found [Blue Marble Knowledge Base](https://www.bluemarblegeo.com/knowledgebase/global-mapper/index.htm)
+more info about the scripting language ca be found [Blue Marble Knowledge Base](http://bluemarblegeo.com/knowledgebase/global-mapper/ScriptReference.html)
+[GlobalMapper Forum](http://forum.globalmapperforum.com/discussion/12660/syntax-highlighting-for-sublime-text-3)
 
 -->[Sublime Text 3](http://www.sublimetext.com/3)<--
 
