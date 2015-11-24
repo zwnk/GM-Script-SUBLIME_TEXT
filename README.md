@@ -1,5 +1,8 @@
 ### Syntax Highlighting for Global Mapper Scripts
 
+![](https://yeinlookatdatunicorn.net/user/pages/blog/20150715_1_GM_SUblime/gm_script_syn_on.png)
+
+
 Save the file to your Packages\User folder.
 
 Windows:
@@ -16,7 +19,7 @@ more info about the scripting language ca be found [Blue Marble Knowledge Base](
 
 -->[Sublime Text 3](http://www.sublimetext.com/3)<--
 
-
+**blog-at-yeinlookatdatunicorn.net**
 
 Hfgl
 zwnk
